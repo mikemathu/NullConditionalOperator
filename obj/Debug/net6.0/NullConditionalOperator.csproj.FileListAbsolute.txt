@@ -1,0 +1,15 @@
+C:\C#\repos\MVC\NullConditionalOperator\bin\Debug\net6.0\NullConditionalOperator.exe
+C:\C#\repos\MVC\NullConditionalOperator\bin\Debug\net6.0\NullConditionalOperator.deps.json
+C:\C#\repos\MVC\NullConditionalOperator\bin\Debug\net6.0\NullConditionalOperator.runtimeconfig.json
+C:\C#\repos\MVC\NullConditionalOperator\bin\Debug\net6.0\NullConditionalOperator.dll
+C:\C#\repos\MVC\NullConditionalOperator\bin\Debug\net6.0\NullConditionalOperator.pdb
+C:\C#\repos\MVC\NullConditionalOperator\obj\Debug\net6.0\NullConditionalOperator.csproj.AssemblyReference.cache
+C:\C#\repos\MVC\NullConditionalOperator\obj\Debug\net6.0\NullConditionalOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\repos\MVC\NullConditionalOperator\obj\Debug\net6.0\NullConditionalOperator.AssemblyInfoInputs.cache
+C:\C#\repos\MVC\NullConditionalOperator\obj\Debug\net6.0\NullConditionalOperator.AssemblyInfo.cs
+C:\C#\repos\MVC\NullConditionalOperator\obj\Debug\net6.0\NullConditionalOperator.csproj.CoreCompileInputs.cache
+C:\C#\repos\MVC\NullConditionalOperator\obj\Debug\net6.0\NullConditionalOperator.dll
+C:\C#\repos\MVC\NullConditionalOperator\obj\Debug\net6.0\refint\NullConditionalOperator.dll
+C:\C#\repos\MVC\NullConditionalOperator\obj\Debug\net6.0\NullConditionalOperator.pdb
+C:\C#\repos\MVC\NullConditionalOperator\obj\Debug\net6.0\NullConditionalOperator.genruntimeconfig.cache
+C:\C#\repos\MVC\NullConditionalOperator\obj\Debug\net6.0\ref\NullConditionalOperator.dll
